@@ -27,7 +27,12 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "https://www.facebook.com/events/842775019090740/?ref=4"
+        "description": "https://www.facebook.com/events/842775019090740/?ref=4",
+        "photos": [
+          "./img/photos/halifax/1.jpg",
+          "./img/photos/halifax/2.jpg",
+          "./img/photos/halifax/3.jpg"
+        ]
       }
     }, 
     {
@@ -174,7 +179,12 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 28", 
-        "description": "(唐人街孔子大廈對開廣場 33 Bowery, New York, NY 10002)Please wear black. Contact: anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)"
+        "description": "(唐人街孔子大廈對開廣場 33 Bowery, New York, NY 10002)Please wear black. Contact: anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)",
+        "photos": [
+          "./img/photos/newyork/1.jpg",
+          "./img/photos/newyork/2.jpg",
+          "./img/photos/newyork/3.jpg"
+        ]
       }
     }, 
     {
@@ -1496,7 +1506,12 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "https://www.facebook.com/events/905896499422564/"
+        "description": "https://www.facebook.com/events/905896499422564/",
+        "photos": [
+          "./img/photos/manchester/1.jpg",
+          "./img/photos/manchester/2.jpg",
+          "./img/photos/manchester/3.jpg"
+        ]
       }
     }, 
     {
@@ -1642,7 +1657,14 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Event page: https://www.facebook.com/events/1542707772626971\nContact: Hong Kong Overseas Alliance HKOA.official@gmail.com"
+        "description": "Event page: https://www.facebook.com/events/1542707772626971\nContact: Hong Kong Overseas Alliance HKOA.official@gmail.com",
+        "photos": [
+          "./img/photos/london/1.jpg",
+          "./img/photos/london/2.jpg",
+          "./img/photos/london/3.jpg",
+          "./img/photos/london/4.jpg"
+        ]
+
       }
     }, 
     {
@@ -1785,7 +1807,14 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 2", 
-        "description": "Page: https://www.facebook.com/events/544139535730004/"
+        "description": "Page: https://www.facebook.com/events/544139535730004/",
+        "photos": [
+          "./img/photos/dublin/1.jpg",
+          "./img/photos/dublin/2.jpg",
+          "./img/photos/dublin/3.jpg",
+          "./img/photos/dublin/4.jpg",
+          "./img/photos/dublin/5.jpg"
+        ]
       }
     }, 
     {
