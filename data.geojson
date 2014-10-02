@@ -528,7 +528,8 @@
         "description": "",
         "photos": [
           "./img/photos/paris/paris1.jpg",
-          "./img/photos/paris/paris2.jpg"
+          "./img/photos/paris/paris2.jpg",
+          "./img/photos/paris/paris3.jpg"
         ]
       }
     }, 
@@ -713,7 +714,8 @@
         "description": "https://www.facebook.com/events/363549887155202/",
         "photos": [
           "./img/photos/paris/paris1.jpg",
-          "./img/photos/paris/paris2.jpg"
+          "./img/photos/paris/paris2.jpg",
+          "./img/photos/paris/paris3.jpg"
         ]
       }
     }, 
@@ -1664,8 +1666,9 @@
         "description": "Event page: https://www.facebook.com/events/363549887155202/",
         "photos": [
           "./img/photos/paris/paris1.jpg",
-          "./img/photos/paris/paris2.jpg"
-        ]
+          "./img/photos/paris/paris2.jpg",
+          "./img/photos/paris/paris3.jpg"
+          ]
       }
     }, 
     {
