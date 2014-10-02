@@ -960,7 +960,11 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "https://www.facebook.com/events/1535503596683235/"
+        "description": "https://www.facebook.com/events/1535503596683235/",
+        "photos": [
+          "./img/photos/houston/1.jpeg"
+        ]
+
       }
     }, 
     {
@@ -1129,7 +1133,14 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Contact: Michael Law hong.law@mail.mcgill.ca\nhttps://www.facebook.com/events/385942264896916/?ref=4"
+        "description": "Contact: Michael Law hong.law@mail.mcgill.ca\nhttps://www.facebook.com/events/385942264896916/?ref=4",
+        "photos": [
+          "./img/photos/montreal/1.jpg",
+          "./img/photos/montreal/2.jpg",
+          "./img/photos/montreal/3.jpg",
+          "./img/photos/montreal/4.jpg"
+        ]
+
       }
     }, 
     {
@@ -1663,7 +1674,12 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Video filming starts at 6pm.\nContact: Tina Choi  tinachoius@gmail.com\nEvent:https://www.facebook.com/events/289898761206924"
+        "description": "Video filming starts at 6pm.\nContact: Tina Choi  tinachoius@gmail.com\nEvent:https://www.facebook.com/events/289898761206924",
+        "photos": [
+          "./img/photos/seattle/1.jpg",
+          "./img/photos/seattle/2.jpg",
+          "./img/photos/seattle/3.jpg"
+        ]
       }
     }, 
     {
@@ -1695,7 +1711,20 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Contact: Angela Chan angela.kawai.chan@gmail.com\nEvent: https://www.facebook.com/events/720852117983304"
+        "description": "Contact: Angela Chan angela.kawai.chan@gmail.com\nEvent: https://www.facebook.com/events/720852117983304",
+        "photos": [
+          "./img/photos/boston/1.jpg",
+          "./img/photos/boston/2.jpg",
+          "./img/photos/boston/3.jpg",
+          "./img/photos/boston/4.jpg",
+          "./img/photos/boston/5.jpg",
+          "./img/photos/boston/6.jpg",
+          "./img/photos/boston/7.jpg",
+          "./img/photos/boston/8.jpg",
+          "./img/photos/boston/9.jpg",
+          "./img/photos/boston/10.jpg",
+          "./img/photos/boston/11.jpg"
+        ]
       }
     }, 
     {
